@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prac</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <nav>
+        <h2>Benbrands</h2>
+        <div class="end">
+            <ul>
+                <li>Home</li>
+                <li>About</li>
+                <li>services</li>
+            </ul>
+            <div id="placa">
+                <div></div>
+                <div></div>
+                <div></div>
+    
+            </div>
+        </div>
+    </nav>
+    <div class="all">
+
+    </div>
+    <div class="drawer" id="dr">
+        <div style="height: 8vw;">
+
+        </div>
+        <hr>
+        <ul>
+            <li>Home</li>
+            <li>About</li>
+            <li>services</li>
+        </ul>
+
+    </div>
+ <script src="indx.js"></script>   
+</body>
+</html>
